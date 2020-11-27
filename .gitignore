@@ -2,3 +2,5 @@
 .empty
 .ipynb_checkpoints
 models
+.DS_Store
+.vscode
