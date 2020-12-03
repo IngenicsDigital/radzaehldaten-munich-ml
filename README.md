@@ -1,6 +1,6 @@
 # Raddatenanalyse München
 
-Jupyter Notebook zum Artikel: https://entwicklernotizen.de/blog/machine-learning-mit-radzaehldaten-in-muenchen/
+Jupyter Notebook zum Artikel: https://entwicklernotizen.de/blog/machine-learning-mit-radzaehldaten-aus-muenchen/
 
 ## Entwicklungsumgebung
 
